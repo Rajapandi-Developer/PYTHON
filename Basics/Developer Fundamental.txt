@@ -1,0 +1,14 @@
+
+1)Don't read a Dictionary - which means learn everything and makup things don't do it, just to learn how things work and search how can we do?
+
+2)Commenting your code - don't necessarly write comment for everyline, use it for when its necessary make it short
+
+3)Understanding Data Structure - like dict,tuples,set,list - when to use what?
+
+4)what is good code - ('clean' like format,indentation,avoid unwanted comments, 'Readability'- easy to understand,using reasonable variable,
+		'to be Predictable', 'DRY' - Don't Repeat Yourself , making code reuable (function)) 
+
+5)Test your Assumptions - testing our understanding, to shine our skills
+
+6)Pros and Cons of library - select which packages of looks good (maintaing and improving ) select if its difficukt to write from scratch
+
